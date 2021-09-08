@@ -2,6 +2,11 @@
 
 Needed：[造類秘術](https://github.com/GLanguage/class-wy)
 
-[Brainstorm] Better names wanted.
+Better names wanted. I'm not good at classical Chinese:P
 
-See more in wiki.
+Current plan:
+|---|---|
+|堆|Heap|
+|前綴列|BIT|
+
+See more in [wiki](https://github.com/NFLSCode/qijing/wiki).

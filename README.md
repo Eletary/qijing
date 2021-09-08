@@ -5,6 +5,8 @@ Needed：[造類秘術](https://github.com/GLanguage/class-wy)
 Better names wanted. I'm not good at classical Chinese:P
 
 Current plan:
+
+|Name|English|
 |---|---|
 |堆|Heap|
 |前綴列|BIT|

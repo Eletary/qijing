@@ -1,4 +1,12 @@
-# 器經
+## 器經
+
+```
+wyg i 器經
+```
+or
+```
+wyg i qijing
+```
 
 Needed：[造類秘術](https://github.com/GLanguage/class-wy)
 

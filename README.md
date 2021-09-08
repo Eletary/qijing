@@ -9,6 +9,6 @@ Current plan:
 |Name|English|
 |---|---|
 |堆|Heap|
-|前綴列|BIT|
+|子和列|BIT|
 
 See more in [wiki](https://github.com/NFLSCode/qijing/wiki).

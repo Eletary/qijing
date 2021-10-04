@@ -16,7 +16,7 @@ Current plan:
 
 |Name|English|
 |---|---|
-|堆|Heap|
+|門派|Heap|
 |子和列|BIT|
 
 See more in [wiki](https://github.com/NFLSCode/qijing/wiki).
